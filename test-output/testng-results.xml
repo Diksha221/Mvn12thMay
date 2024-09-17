@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-15T13:28:33 IST" name="Suite" finished-at="2024-09-15T13:28:34 IST" duration-ms="474">
+    <groups>
+    </groups>
+    <test started-at="2024-09-15T13:28:33 IST" name="Test" finished-at="2024-09-15T13:28:34 IST" duration-ms="474">
+      <class name="FirstSegment_SR.Registration">
+        <test-method signature="UserID_Creation()[pri:0, instance:FirstSegment_SR.Registration@79179359]" started-at="2024-09-15T13:28:33 IST" name="UserID_Creation" finished-at="2024-09-15T13:28:33 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserID_Creation -->
+        <test-method signature="UserName_Field()[pri:0, instance:FirstSegment_SR.Registration@79179359]" started-at="2024-09-15T13:28:33 IST" name="UserName_Field" finished-at="2024-09-15T13:28:33 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserName_Field -->
+        <test-method signature="User_EmailID()[pri:0, instance:FirstSegment_SR.Registration@79179359]" started-at="2024-09-15T13:28:33 IST" name="User_EmailID" finished-at="2024-09-15T13:28:34 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_EmailID -->
+        <test-method signature="User_MobileNo()[pri:0, instance:FirstSegment_SR.Registration@79179359]" started-at="2024-09-15T13:28:34 IST" name="User_MobileNo" finished-at="2024-09-15T13:28:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_MobileNo -->
+      </class> <!-- FirstSegment_SR.Registration -->
+      <class name="ThirdSegment_SR.WishList">
+        <test-method signature="Multiple_Product()[pri:0, instance:ThirdSegment_SR.WishList@4748a0f9]" started-at="2024-09-15T13:28:34 IST" name="Multiple_Product" finished-at="2024-09-15T13:28:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiple_Product -->
+        <test-method signature="ProductList()[pri:0, instance:ThirdSegment_SR.WishList@4748a0f9]" started-at="2024-09-15T13:28:34 IST" name="ProductList" finished-at="2024-09-15T13:28:34 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductList -->
+      </class> <!-- ThirdSegment_SR.WishList -->
+      <class name="SecondSegment_SR.HomePage">
+        <test-method signature="Customer_Review()[pri:0, instance:SecondSegment_SR.HomePage@34a875b3]" started-at="2024-09-15T13:28:34 IST" name="Customer_Review" finished-at="2024-09-15T13:28:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Customer_Review -->
+        <test-method signature="Menu_Option()[pri:0, instance:SecondSegment_SR.HomePage@34a875b3]" started-at="2024-09-15T13:28:34 IST" name="Menu_Option" finished-at="2024-09-15T13:28:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menu_Option -->
+        <test-method signature="Product_Tab()[pri:0, instance:SecondSegment_SR.HomePage@34a875b3]" started-at="2024-09-15T13:28:34 IST" name="Product_Tab" finished-at="2024-09-15T13:28:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Tab -->
+        <test-method signature="Search_Option()[pri:0, instance:SecondSegment_SR.HomePage@34a875b3]" started-at="2024-09-15T13:28:34 IST" name="Search_Option" finished-at="2024-09-15T13:28:34 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Option -->
+      </class> <!-- SecondSegment_SR.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
